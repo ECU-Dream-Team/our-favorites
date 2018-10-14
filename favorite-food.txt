@@ -1,3 +1,4 @@
-Pizza
-Burger
-Hot Dog
+* Burger [meat]
+* Chicken Sandwich [meat] [bread]
+* Hot Dog [meat] [bread]
+* Pizza [sauce] [diary] [dough]
